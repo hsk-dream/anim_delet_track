@@ -1,0 +1,2 @@
+# anim_delet_track
+Godot插件，一键删除目录下所有动画资源文件的被选择轨道
